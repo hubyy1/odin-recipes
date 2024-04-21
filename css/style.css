@@ -1,0 +1,13 @@
+* {
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-wall h1 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UnQQQpzz1uT1sPdR8Yf6hJ0Ddk1oioxT17LqaOLG1w&s");
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    
+    
+}
